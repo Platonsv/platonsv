@@ -18,6 +18,7 @@ Open to relocation.
 
 #### My CV
 [link to CV](https://drive.google.com/file/d/19MMVXwQch7aHm2JzPOZ4MRXesj13ZrvK/view?usp=sharing)
+
 [link to certificate Software testing](https://drive.google.com/file/d/1EQPB0amDvGosuUdcGcr-dsIgYNBi5Yzg/view?usp=sharing) 
 
 #### My portfolio
