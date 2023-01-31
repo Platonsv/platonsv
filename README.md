@@ -1,8 +1,7 @@
 ### Hi everyone! 👋
 
 #### I'm Sveta. I'm a QA specialist and I’m looking for a job 🔭
-I have practical experience in testing: requirements, 2 web, 2 desktop and 1 mobile
-application.
+I have 1 year of work in product company and practical experience in testing: requirements, 2 web, 2 desktop and 1 mobile application.
 
 My skills:
 - Test management system: TestRail
