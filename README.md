@@ -17,7 +17,8 @@ My skills:
 Open to relocation.
 
 #### My CV
-[link](https://www.linkedin.com/in/platonsv/)
+[link to CV](https://drive.google.com/file/d/19MMVXwQch7aHm2JzPOZ4MRXesj13ZrvK/view?usp=sharing)
+[link to certificate Software testing](https://drive.google.com/file/d/1EQPB0amDvGosuUdcGcr-dsIgYNBi5Yzg/view?usp=sharing) 
 
 #### My portfolio
 [Check-list|Test-case](https://docs.google.com/spreadsheets/d/1_4P6EVEy7db3zzG85ND5iqamJI0YIuTlOkJZXr5Y72U/edit?usp=sharing)
